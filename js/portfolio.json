@@ -1,0 +1,59 @@
+[
+    
+    {
+        "img": "cover-1",
+        "name": "Blume Flower Shop",
+        "detail": "Diseño de aplicación móvil para florería local.",
+        "type1": "Diseño UI",
+        "id": "1"
+    },
+    {
+        "img": "cover-2",
+        "name": "Exur Envíos",
+        "detail": "Creación e implementación de Sistema de Diseño y rediseño del sitio web.",
+        "type1": "Diseño UI",        
+        "type2":"",
+        "id": "2"
+
+    },
+    {
+        "img": "cover-4",
+        "name": "MetaPata Refugio",
+        "detail": "Diseño y desarrollo web para refugio de animales.",
+        "type1": "Diseño UI",
+        "id": "3"
+
+    },
+    {
+        "img": "cover-6",
+        "name": "Bel Cosmética",
+        "detail": "Diseño y desarrollo web para Bel Cosmética, tienda local de productos de belleza.",
+        "type1": "Desarrollo web",        
+        "id": "4"
+
+    },
+    {
+        "img": "cover-3",
+        "name": "Studia",
+        "detail": "Diseño de plataforma de estudio para clases virtuales de apoyo.",
+        "type1": "Diseño UI",        
+        "id": "5"
+
+    },
+    {
+        "img": "cover-7",
+        "name": "Landa",
+        "detail": "Diseño y desarrollo de sitio web para productor rural local.",
+        "type1": "Diseño UI",        
+        "id": "6"
+
+    },
+    {
+        "img": "cover-5",
+        "name": "AppTo",
+        "detail": "Diseño UI/UX de aplicación orientada principalmente para usuarios veganos y vegetarianos.",
+        "type1": "Diseño UI/UX",        
+        "id": "7"
+
+    }
+]
